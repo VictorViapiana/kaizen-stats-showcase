@@ -1,4 +1,4 @@
-# 🎮 Kaizen Stats API & 3D Showcase (Full-Stack)
+# 🎮 Stats API & 3D Showcase (Full-Stack)
 
 > 🔒 **Note:** This is a Showcase repository. The source code for this project is private and commercially owned. This page serves to demonstrate the software architecture, the technologies used, and the developed user interface.
 
