@@ -7,7 +7,7 @@ This project is an advanced Full-Stack Web Application built to connect a game s
 
 Unlike simple stat-checkers, this platform was engineered to handle asynchronous external API calls (fetching official skins and capes), prevent WebGL memory leaks on mobile devices, and ensure high-performance database querying without deadlocking the main server threads.
 
-
+<video src="./Kaizen-stats.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
